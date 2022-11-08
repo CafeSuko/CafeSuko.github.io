@@ -9,7 +9,7 @@
     <body>
         <h1>作品ページ</h1
         <dl>
-            <dt><a href="./folder1/">作品１</a></li></dt>
+            <dt><a href="./RoomTest02/">RoomTest02</a></li></dt>
             <dd>Unity公開テスト</dd>
        
         </dl>
